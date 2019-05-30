@@ -1,0 +1,58 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly spec, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class spec.Assignment_01Spec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    Test_butterflyNumber0(): PrivateScope, Public, HideBySig
+    Test_butterflyNumber1(): PrivateScope, Public, HideBySig
+    Test_butterflyNumber2(): PrivateScope, Public, HideBySig
+    Test_palindromeNumbers(): PrivateScope, Public, HideBySig
+    Test_closest5EvenNumbers(): PrivateScope, Public, HideBySig
+    Test_closest5PalindromeNumbers0(): PrivateScope, Public, HideBySig
+    Test_closest5PalindromeNumbers1(): PrivateScope, Public, HideBySig
+    Test_closest5PalindromeNumbers2(): PrivateScope, Public, HideBySig
+Class spec.Assignment_02Spec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    stringFromDigits(Int32* IsConst IsConst, Int32, SByte* IsConst IsConst): PrivateScope, Public, Static, HideBySig
+    Test_factorialOfN0(): PrivateScope, Public, HideBySig
+    Test_factorialOfN1(): PrivateScope, Public, HideBySig
+    Test_factorialOfN2(): PrivateScope, Public, HideBySig
+    Test_recamanSequence(): PrivateScope, Public, HideBySig
+Class spec.Assignment_03Spec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    Test_numberWithoutRepeatition0(): PrivateScope, Public, HideBySig
+    Test_numberWithoutRepeatition1(): PrivateScope, Public, HideBySig
+    Test_numberWithoutRepeatition2(): PrivateScope, Public, HideBySig
+    Test_encodeWithNthPrime0(): PrivateScope, Public, HideBySig
+    Test_decodeWithNthPrime0(): PrivateScope, Public, HideBySig
+    Test_EncodeAndDecode0(): PrivateScope, Public, HideBySig
+    Test_EncodeAndDecode1(): PrivateScope, Public, HideBySig
+    Test_EncodeAndDecode2(): PrivateScope, Public, HideBySig
+    Test_packHeader(): PrivateScope, Public, HideBySig
+    Test_unpackHeader(): PrivateScope, Public, HideBySig
+    Test_packAndUnpackHeader(): PrivateScope, Public, HideBySig
